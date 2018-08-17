@@ -30,3 +30,18 @@ Expend Instructional expenditure per student
 Grad.Rate Graduation rate
 ```
 
+The dataset used here is the [college dataset](https://github.com/Kshriva1/K-Means-Clustering/blob/master/College_Data)
+
+# Dependencies
+
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- KMeans from scikitlearn
+
+# Reference
+[Pierian Data](https://www.pieriandata.com/)
+
+
+
